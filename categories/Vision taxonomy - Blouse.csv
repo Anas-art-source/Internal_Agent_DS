@@ -1,0 +1,12 @@
+Property,Description,Examples
+Silhouette,Examine the blouse's overall shape to determine its silhouette. Classify according to the following categories,"Straight, Fitted, Peplum, Blouson, Wrap, Asymmetric, Other, None."
+Fit,Determine the blouse's fit by how it conforms to the body. Classify the fit into the following categories,"Regular, Slim, Loose, Tailored, Other, None."
+Neckline Style,Identify the style of the blouse's neckline. Classify the neckline style into the following categories,"Crew Neck, V-Neck, Scoop Neck, Boat Neck, Collared, High Neck, Off-Shoulder, Other, None."
+Sleeve Style,Observe the style of the blouse's sleeves. Classify the sleeve style into the following categories,"Sleeveless, Set-In, Puff, Bell, Bishop, Raglan, Other, None."
+Sleeve Length,Measure the length of the blouse's sleeves. Classify the sleeve length into the following categories,"Sleeveless, Short Sleeve, Elbow Length, Three-Quarter Sleeve, Long Sleeve, Other, None."
+Closure Type,Identify the type of closure used on the blouse. Classify the closure type into the following categories,"Button Front, Pullover, Back Zipper, Side Zipper, Wrap, Other, None."
+Fabric Composition,Determine the type of fabric used in the blouse's construction. Classify the fabric composition into the following categories,"Cotton, Silk, Polyester, Rayon, Lace, Chiffon, Linen, Other, None."
+Pattern,Identify any pattern on the blouse. Classify the pattern into the following categories,"Solid, Striped, Checked, Floral, Polka Dot, Paisley, Abstract, Other, None."
+Hem Style,Examine the style of the blouse's hem. Classify the hem style into the following categories,"Straight Hem, Rounded Hem, High-Low, Elastic Hem, Other, None."
+Decorative Elements,Look for any decorative elements on the blouse. Classify into the following categories,"Ruffles, Lace, Embroidery, Pleats, Bows, Ties, Other, None."
+Functional Features,Note any functional features of the blouse such as pockets or adjustability. Classify into the following categories,"Chest Pocket, Hidden Pockets, Adjustable Sleeves, Other, None."

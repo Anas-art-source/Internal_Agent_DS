@@ -1,0 +1,49 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: internal-agent
+  namespace: internal-agent-dev
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: internal-agent
+  strategy:
+    rollingUpdate:
+      maxSurge: 2
+      maxUnavailable: 1
+  minReadySeconds: 5
+  template:
+    metadata:
+      labels:
+        app: internal-agent
+    spec:
+      containers:
+        - name: internal-agent
+          image: DOCKER_IMAGE
+          ports:
+            - containerPort: 5000
+          resources:
+            requests:
+              cpu: 500m
+              memory: 512Mi
+            limits:
+              cpu: 1000m
+              memory: 1024Mi
+      restartPolicy: Always
+
+---
+
+apiVersion: autoscaling/v1
+kind: HorizontalPodAutoscaler
+metadata:
+  name: internal-agent-hpa
+  namespace: internal-agent-dev
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: internal-agent
+  minReplicas: 1
+  maxReplicas: 5
+  targetCPUUtilizationPercentage: 80

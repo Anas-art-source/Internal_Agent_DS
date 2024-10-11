@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fastapi-app
+spec:
+  replicas: 2  # Adjust as per your scaling needs
+  selector:
+    matchLabels:
+      app: fastapi-app
+  template:
+    metadata:
+      labels:
+        app: fastapi-app
+    spec:
+      containers:
+        - name: fastapi-app
+          image: 891377361876.dkr.ecr.us-east-2.amazonaws.com/internal-agent:latest  # Update with your ECR image URL
+          ports:
+            - containerPort: 80  # Assuming your FastAPI app runs on port 80
+          env:
+            - name: AWS_DEFAULT_REGION
+              value: us-east-2  # Replace with your AWS region
+          # Add any other environment variables as needed

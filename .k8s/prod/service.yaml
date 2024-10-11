@@ -1,0 +1,14 @@
+#Service
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: taxonomy
+  name: taxonomy
+  namespace: taxonomy-prod
+spec:
+  ports:
+    - port: 80
+      targetPort: 3000
+  selector:
+    app: taxonomy

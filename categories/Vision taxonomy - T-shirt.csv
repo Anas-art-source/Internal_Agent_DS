@@ -1,0 +1,11 @@
+Property,Description,Examples
+Silhouette,Examine the T-shirt's overall shape to determine its silhouette. Classify according to the following categories,"Regular, Fitted, Boxy, Oversized, Cropped, Asymmetric, Other, None."
+Fit,Determine the T-shirt's fit by how it conforms to the body. Classify the fit into the following categories,"Tight, Loose, Regular, Slim Fit, Relaxed Fit, Compression, Other, None."
+Neckline Style,Identify the style of the T-shirt's neckline. Classify the neckline style into the following categories,"Crew Neck, V-Neck, Scoop Neck, Henley, Polo, Turtleneck, Boat Neck, Collared, Other, None."
+Sleeve Style,Observe the style of the T-shirt's sleeves. Classify the sleeve style into the following categories,"Raglan, Set-in, Drop Shoulder, Cap Sleeve, Other, None."
+Sleeve Length,Measure the length of the T-shirt's sleeves. Classify the sleeve length into the following categories,"Sleeveless, Short Sleeve, Elbow Length, Three-Quarter Sleeve, Long Sleeve, Other, None."
+Hem Style,Examine the style of the T-shirt's hem. Classify the hem style into the following categories,"Straight Hem, Curved Hem, Elastic Hem, Knotted Hem, Other, None."
+Fabric Composition,Determine the type of fabric used in the T-shirt's construction. Classify the fabric composition into the following categories,"Cotton, Polyester, Rayon, Spandex, Linen, Jersey, Blended Fabrics, Other, None."
+Prints and Patterns,Identify any prints or patterns on the T-shirt. Classify into the following categories,"Solid, Striped, Printed Graphic, Plaid, Polka Dot, Other, None."
+Embellishments,Look for any embellishments on the T-shirt. Classify into the following categories,"Sequins, Beads, Embroidery, Appliqués, Other, None."
+Functional Features,"Note any functional features of the T-shirt such as pockets, linings, or performance properties. Classify into the following categories","Pockets, Moisture-wicking, UV Protection, Other, None."

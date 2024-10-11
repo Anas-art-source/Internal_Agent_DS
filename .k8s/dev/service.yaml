@@ -1,0 +1,14 @@
+#Service
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: internal-agent
+  name: internal-agent
+  namespace: internal-agent-dev
+spec:
+  ports:
+    - port: 80
+      targetPort: 5000
+  selector:
+    app: internal-agent

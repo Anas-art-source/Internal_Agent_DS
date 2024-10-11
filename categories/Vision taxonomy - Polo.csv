@@ -1,0 +1,12 @@
+Property,Description,Examples
+Silhouette,Examine the polo shirt's overall shape to determine its silhouette. Classify according to the following categories,"Classic, Fitted, Relaxed, Other, None."
+Fit,Determine the polo shirt's fit by how it conforms to the body. Classify the fit into the following categories,"Regular, Slim, Loose, Other, None."
+Collar Type,Identify the style of the polo shirt's collar. Classify the collar type into the following categories,"Pointed Collar, Ribbed Collar, Spread Collar, Button-Down Collar, Other, None."
+Sleeve Length,Measure the length of the polo shirt's sleeves. Classify the sleeve length into the following categories,"Sleeveless, Short Sleeve, Long Sleeve, Other, None."
+Placket Style,Observe the style of the polo shirt's placket. Classify the placket style into the following categories,"Standard Placket, Concealed Placket, Zip Placket, Other, None."
+Hem Style,Examine the style of the polo shirt's hem. Classify the hem style into the following categories,"Straight Hem, Vented Hem, Ribbed Hem, Other, None."
+Fabric Composition,Determine the type of fabric used in the polo shirt's construction. Classify the fabric composition into the following categories,"Cotton Pique, Jersey, Synthetic Fibers, Blended Fabrics, Other, None."
+Pattern,Identify any pattern on the polo shirt. Classify the pattern into the following categories,"Solid, Striped, Checked, Logo, Graphic, Other, None."
+Pocket Style,Check for the presence and style of pockets on the polo shirt. Classify the pocket style into the following categories,"No Pocket, Single Chest Pocket, Other, None."
+Button Type,Examine the type and style of buttons on the polo shirt. Classify the button type into the following categories,"Standard, Pearlized, Rubber Buttons, Snap Buttons, Other, None."
+Decorative Elements,Look for any decorative elements on the polo shirt. Classify into the following categories,"Logo, Embroidery, Piping, Badges, Other, None."

@@ -1,0 +1,349 @@
+city,total_sales_value
+Rio de Janeiro,86160
+São Paulo,25130
+Salvador,11129
+Belo Horizonte,10052
+Niterói,8975
+Brasília,7898
+Nova Iguaçu,6462
+São Gonçalo,6103
+Recife,4308
+Campinas,3949
+Rio Branco,3949
+Santos,3590
+Duque de Caxias,3231
+Macaé,3231
+Curitiba,2872
+Vila Velha,2872
+Campos dos Goytacazes,2513
+João Pessoa,2513
+Goiânia,2513
+Lauro de Freitas,2154
+Natal,2154
+Magé,2154
+Vitória,1795
+Florianópolis,1795
+São Bernardo do Campo,1795
+Maceió,1795
+Osasco,1795
+São João de Meriti,1436
+Aracaju,1436
+Porto Alegre,1436
+Itaúna,1436
+Serra,1436
+Fortaleza,1436
+Sete Lagoas,1436
+Maricá,1436
+Belém,1436
+Itaboraí,1436
+Mossoró,1436
+Itaguara,1436
+Uberlândia,1436
+Valença,1436
+Juiz de Fora,1436
+Volta Redonda,1436
+Valinhos,1077
+Cruzeiro do Sul,1077
+Jundiaí,1077
+Parauapebas,1077
+Santo André,1077
+Goianésia,1077
+Porto Velho,1077
+Santana de Parnaíba,1077
+São José do Rio Preto,1077
+Sumaré,1077
+Nilópolis,1077
+Ouro Branco,1077
+Contagem,1077
+Formosa,1077
+Itabela,1077
+Arapiraca,1077
+Três Rios,1077
+Londrina,1077
+Guarujá,718
+Luziânia,718
+Igarapé-Açu,718
+Presidente Dutra,718
+Manaus,718
+Bertioga,718
+Imperatriz,718
+Ribeirão Preto,718
+Rio Claro,718
+Marília,718
+Maringá,718
+Diadema,718
+Mauá,718
+Ipuã,718
+Rondonópolis,718
+Miguel Alves,718
+Saltinho,718
+Santa Cruz do Capibaribe,718
+Barra Mansa,718
+Miracema,718
+Santa Maria,718
+Mococa,718
+Caçapava,718
+Montes Claros,718
+Itabirito,718
+Nerópolis,718
+Nova Friburgo,718
+São João da Barra,718
+Bauru,718
+São José dos Campos,718
+Bom Jardim,718
+Casa Nova,718
+Olho D'Água das Flores,718
+Bom Jesus da Lapa,718
+Araruama,718
+São Pedro da Aldeia,718
+Olinda,718
+Saquarema,718
+Seropédica,718
+Itumbiara,718
+Camaçari,718
+Taboão da Serra,718
+Tangará da Serra,718
+Teresina,718
+Teresópolis,718
+Belford Roxo,718
+Afonso Cláudio,718
+Ubatuba,718
+Patos de Minas,718
+Patrocínio,718
+Campo Grande,718
+Conselheiro Lafaiete,718
+Vitória da Conquista,718
+Piracicaba,718
+Lagoa Dourada,359
+Lavras,359
+Lençóis Paulista,359
+Leopoldina,359
+Limeira,359
+Livramento de Nossa Senhora,359
+Machadinho D'Oeste,359
+Marabá Paulista,359
+Marataízes,359
+Marechal Floriano,359
+Maria Helena,359
+Mata de São João,359
+Mesquita,359
+Miguel Pereira,359
+Mineiros,359
+Montalvânia,359
+Montividiu,359
+Morada Nova de Minas,359
+Mozarlândia,359
+Muriaé,359
+Nova Lima,359
+Nova Odessa,359
+Novo Repartimento,359
+Oiapoque,359
+Olho D'Água Grande,359
+Olímpia,359
+Ortigueira,359
+Ourinhos,359
+Ouro Preto,359
+Padre Paraíso,359
+Palmas,359
+Palmital,359
+Pancas,359
+Paracatu,359
+Paragominas,359
+Paraty,359
+Parnaíba,359
+Passa Tempo,359
+Passos,359
+Paulínia,359
+Paulista,359
+Pedro do Rosário,359
+Pereira Barreto,359
+Petrolina,359
+Petrópolis,359
+Pindobaçu,359
+Pirapora,359
+Pirassununga,359
+Pires do Rio,359
+Piumhi,359
+Porciúncula,359
+Porto Belo,359
+Posse,359
+Pouso Alegre,359
+Praia Grande,359
+Prainha,359
+Quatis,359
+Quirinópolis,359
+Quissamã,359
+Resende,359
+Rifaina,359
+Rio Bonito,359
+Rio das Ostras,359
+Rio do Sul,359
+Rio Pardo de Minas,359
+Ritápolis,359
+Rolândia,359
+Salinas,359
+Santa Cruz das Palmeiras,359
+Santa Izabel do Pará,359
+Santa Luzia,359
+Santa Maria da Vitória,359
+Santa Maria Madalena,359
+Santarém,359
+Santo Amaro,359
+Santo Antônio da Platina,359
+Santo Antônio de Pádua,359
+Santo Antônio de Posse,359
+São Bento,359
+São Cristóvão,359
+São Domingos do Norte,359
+São Felipe,359
+São Fidélis,359
+São Gabriel,359
+São Gabriel do Oeste,359
+São João Del Rei,359
+São José,359
+São José dos Pinahais,359
+São Leopoldo,359
+São Luís,359
+São Mateus,359
+SAO PAULO,359
+São Pedro do Piauí,359
+São Pedro dos Ferros,359
+São Sebastião do Alto,359
+São Vicente,359
+Schroeder,359
+Sento Sé,359
+Sertãozinho,359
+Sorocaba,359
+Suzano,359
+Tabatinga,359
+Tanguá,359
+Tapera,359
+Taubaté,359
+Timon,359
+Trindade,359
+Tucano,359
+Turmalina,359
+Uberaba,359
+Umuarama,359
+União dos Palmares,359
+Várzea da Palma,359
+Varzelândia,359
+Viçosa,359
+Vilhena,359
+Votorantim,359
+Abaeté,359
+Xinguara,359
+Águia Branca,359
+Alegre,359
+Alexânia,359
+Altamira,359
+Americana,359
+Anápolis,359
+Andradina,359
+Angra dos Reis,359
+Aparecida de Goiânia,359
+Aracruz,359
+Araguari,359
+Araporã,359
+Araranguá,359
+Araras,359
+Arraial do Cabo,359
+Assis Chateaubriand,359
+Atalaia,359
+Atibaia,359
+Avaré,359
+Balsas,359
+Bananal,359
+Barra de São Francisco,359
+Barra dos Coqueiros,359
+Barra Longa,359
+Barreiras,359
+Bela Vista,359
+Belmonte,359
+Belo Oriente,359
+Bicas,359
+Birigüi,359
+Boa Esperança,359
+Bom Jesus do Norte,359
+Bonito,359
+Boquim,359
+Bragança,359
+Bragança Paulista,359
+Brasilândia de Minas,359
+Brodowski,359
+Cabo Frio,359
+Caçapava do Sul,359
+Cachoeiras de Macacu,359
+Cafelândia,359
+Caiapônia,359
+Cajamar,359
+Camaragibe,359
+Campo do Meio,359
+Campo Formoso,359
+Canaa dos Carajás ,359
+Canaã dos Carajás,359
+Canavieiras,359
+Cantagalo,359
+Capanema,359
+Capim Grosso,359
+Carapicuíba,359
+Carazinho,359
+Cariacica,359
+Cascavel,359
+Cataguases,359
+Catalão,359
+Catanduva,359
+Caxias do Sul,359
+Chapecó,359
+Cícero Dantas,359
+Cipó,359
+Congonhas,359
+Cordeiro,359
+Criciúma,359
+Cristalândia,359
+Cuiabá,359
+Divinópolis,359
+Dores do Rio Preto,359
+Dourados,359
+Elói Mendes,359
+Espírito Santo do Pinhal,359
+Eunápolis,359
+Feira de Santana,359
+Fernandópolis,359
+Foz do Iguaçu,359
+Franca,359
+Goiana,359
+Governador Valadares,359
+Guaíra,359
+Guanhães,359
+Guarapari,359
+Guaratuba,359
+Guiricema,359
+Ibatiba,359
+Ibicoara,359
+Ibitirama,359
+Ilha Solteira,359
+Ilhéus,359
+Indaiatuba,359
+Ipatinga,359
+Itaberaba,359
+Itaberaí,359
+Itajaí,359
+Italva,359
+Itamaraju,359
+Itambaracá,359
+Itapemirim,359
+Itaperuna,359
+Itapeva,359
+Itatiba,359
+Itatim,359
+Ituberá,359
+Ituporanga,359
+Jaboticabal,359
+Jacareí,359
+Jardinópolis,359
+Jequeri,359
+Ji-Paraná,359
+João Neiva,359
+José Bonifácio,359
+Lages,359

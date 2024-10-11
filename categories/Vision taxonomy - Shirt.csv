@@ -1,0 +1,12 @@
+Property,Description,Examples
+Silhouette,Examine the dress shirt's overall shape to determine its silhouette. Classify according to the following categories,"Classic, Fitted, Slim, Extra Slim, Other, None."
+Fit,Determine the dress shirt's fit by how it conforms to the body. Classify the fit into the following categories,"Regular, Slim, Tailored, Loose, Other, None."
+Collar Type,Identify the style of the dress shirt's collar. Classify the collar type into the following categories,"Point Collar, Spread Collar, Button-down Collar, Cutaway Collar, Wing Collar, Mandarin Collar, Other, None."
+Sleeve Length,Measure the length of the dress shirt's sleeves. Classify the sleeve length into the following categories,"Short Sleeve, Long Sleeve, Other, None."
+Cuff Style,Examine the style and detailing of cuffs on the dress shirt. Classify the cuff style into the following categories,"Barrel Cuff, French Cuff, Convertible Cuff, Other, None."
+Closure Type,Identify the type of closure used on the dress shirt. Classify the closure type into the following categories,"Button Front, French Placket, Fly Front, Hidden Buttons, Other, None."
+Fabric Composition,Determine the type of fabric used in the dress shirt's construction. Classify the fabric composition into the following categories,"Cotton, Linen, Polyester, Silk, Oxford, Twill, Herringbone, Broadcloth, Poplin, Other, None."
+Pattern,Identify any pattern on the dress shirt. Classify the pattern into the following categories,"Solid, Striped, Checked, Houndstooth, Print, Other, None."
+Pocket Style,Check for the presence and style of pockets on the dress shirt. Classify the pocket style into the following categories,"No Pocket, Single Chest Pocket, Double Chest Pockets, Other, None."
+Pleats,Observe if there are any pleats at the back of the dress shirt. Classify the pleats into the following categories,"Box Pleat, Side Pleats, No Pleats, Other, None."
+Hem Style,Examine the hem style of the dress shirt. Classify the hem style into the following categories,"Rounded Hem, Straight Hem, Other, None."
